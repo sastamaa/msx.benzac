@@ -1,0 +1,28 @@
+{
+   "type": "pages",
+   "headline": "Videos",
+   "template": {
+      "tag": "Movie",
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Medieval",
+         "playerLabel": "Video 1",
+         "icon": "https://image.tmdb.org/t/p/w780/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg:movie",
+         "action": "video:https://www.sw.vidce.net/d/Qykgdjq0kC0S1-wCU9w2nA/1673360953/2018/2015/tt8883486.mp4"
+      },
+      {
+         "title": "Video 2",
+         "playerLabel": "Video 2",
+         "action": "https://www.sw.vidce.net/d/Qykgdjq0kC0S1-wCU9w2nA/1673360953/2018/2015/tt8883486.mp4"
+      },
+      {
+         "title": "Video 3",
+         "playerLabel": "Video 3",
+         "action": "video:http://msx.benzac.de/media/video3.mp4"
+      }
+   ]
+}
